@@ -85,13 +85,4 @@ University of York
 Contact: *[jaysonchen816@gmail.com]*  
 
 
----
 
-##  License
-
-This project is released under the **MIT License**.  
-You are free to use, modify, and distribute it with attribution.
-
----
-
-© 2025 Jayson Chen. All rights reserved.
